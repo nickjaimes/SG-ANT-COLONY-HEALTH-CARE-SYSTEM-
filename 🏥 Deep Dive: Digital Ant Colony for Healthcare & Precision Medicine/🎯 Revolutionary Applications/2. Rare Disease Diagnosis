@@ -1,0 +1,20 @@
+Problem: Average 7.3 years to diagnose rare diseases
+Solution: Collective intelligence across global patient data
+
+```python
+class RareDiseaseColony:
+    def diagnose_unknown_condition(self, patient_symptoms, genomic_data):
+        # Global pattern matching across 10,000+ rare diseases
+        similar_cases = self.find_pattern_matches_globally(patient_symptoms)
+        
+        # Multi-omics integration for hypothesis generation
+        candidate_diagnoses = self.generate_diagnostic_hypotheses(
+            similar_cases, 
+            genomic_data
+        )
+        
+        # Diagnostic validation through collective reasoning
+        confirmed_diagnosis = self.collective_diagnostic_validation(candidate_diagnoses)
+        
+        return confirmed_diagnosis  # In hours, not years
+```
